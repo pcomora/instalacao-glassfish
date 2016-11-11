@@ -7,8 +7,8 @@ Os passos a seguir serão demonstrado todos o itens necessários para instalaç�
   
 ** Correção na váriavel de ambiente JAVA_HOME **
     Acessar o painel de controle (imagem abaixo), selecione a opção "Configurãções avançadas do sistema", clique no botão "Variaveis de Ambiente", econtre a variavél JAVA_HOME e clique no botão Editar.
-![](.\PainelControle.jpg)
-![](.\java_home.png)
+![](PainelControle.jpg)
+![](java_home.png)
   
 ** 2. Entrar no diretório onde estar o arquivo .exe de instalação do glassfish através do prompt de comando do windows. Neste exemplo o arquivo está no disco 'F:'**
 
